@@ -1,14 +1,16 @@
-import json
-
-devices = []
-for i in range(1, 101):
-    device = {
-        "id": f"7ec8c9307e9f0a34",
-        "username": f"123456",
-        "password": f"123456",
-        "expiresAt": "2025-12-31",
-        "allowOffline": True
-    }
-    devices.append(device)
-
-print(json.dumps(devices, indent=4))
+[
+  {
+    "id": "7ec8c9307e9f0a34",
+    "username": "817",
+    "password": "817",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
