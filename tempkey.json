@@ -1,23 +1,25 @@
 [
-  {
-    "id": "7ec8c9307e9f0a34",
-    "username": "mzagy",
-    "password": "817",
-    "expiresAt": "2027-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2027-12-30",
-    "allowOffline": false
-  }
-  {
-    "id": "android_device_id_3",
-    "username": "user3",
-    "password": "pass3",
-    "expiresAt": "2027-12-30",
-    "allowOffline": false
-  }
-]
+  {"id": "7ec8c9307e9f0a34", "username": "123456", "password": "123456", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_2", "username": "user2", "password": "pass2", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_3", "username": "user3", "password": "pass3", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_4", "username": "user4", "password": "pass4", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_5", "username": "user5", "password": "pass5", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_6", "username": "user6", "password": "pass6", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_7", "username": "user7", "password": "pass7", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_8", "username": "user8", "password": "pass8", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_9", "username": "user9", "password": "pass9", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_10", "username": "user10", "password": "pass10", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_11", "username": "user11", "password": "pass11", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_12", "username": "user12", "password": "pass12", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_13", "username": "user13", "password": "pass13", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_14", "username": "user14", "password": "pass14", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_15", "username": "user15", "password": "pass15", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_16", "username": "user16", "password": "pass16", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_17", "username": "user17", "password": "pass17", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_18", "username": "user18", "password": "pass18", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_19", "username": "user19", "password": "pass19", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_20", "username": "user20", "password": "pass20", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_21", "username": "user21", "password": "pass21", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_22", "username": "user22", "password": "pass22", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_23", "username": "user23", "password": "pass23", "expiresAt": "2025-12-31", "allowOffline": true},
+  {"id": "device_24", "username": "user24", "password": "pass24", "expiresAt": "2025-12-31", "allowOffline": true},
