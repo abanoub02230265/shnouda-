@@ -8,9 +8,37 @@
   },
   {
     "id": "android_device_id_2",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
+    "username": "mzagy",
+    "password": "817",
+    "expiresAt": "2027-12-30",
     "allowOffline": false
   }
+    {
+    "id": "android_device_id_2",
+    "username": "mzagy",
+    "password": "817",
+    "expiresAt": "2027-12-30",
+    "allowOffline": false
+    }
+    {
+    "id": "android_device_id_2",
+    "username": "mzagy",
+    "password": "817",
+    "expiresAt": "2027-12-30",
+    "allowOffline": false
+    }
+    {
+    "id": "android_device_id_2",
+    "username": "mzagy",
+    "password": "817",
+    "expiresAt": "2027-12-30",
+    "allowOffline": false
+    }
+    {
+    "id": "android_device_id_2",
+    "username": "mzagy",
+    "password": "817",
+    "expiresAt": "2027-12-30",
+    "allowOffline": false
+    }
 ]
