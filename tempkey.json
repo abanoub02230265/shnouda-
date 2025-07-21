@@ -1,16 +1,7 @@
-[
-  {
-    "id": "b70d91e8f08a1185",
-    "username": "mzagngy",
-    "password": "Hack",
-    "expiresAt": "2026-12-31",
-    "allowOffline": true
-  },
-  {
-    "id": "b70d91e8f08a1185",
-    "username": "mzagngy",
-    "password": "Hack",
-    "expiresAt": "2026-11-30",
-    "allowOffline": false
-  }
-]
+
+  "version": 7,
+  "title": "New Update Available",
+  "subtitle": "Update Your Application",
+  "closeButton": false,
+  "link": "https://t.me/ALMZAGNGY3"
+}
